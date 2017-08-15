@@ -5,6 +5,7 @@ Still really early for game release. Server is only compatible with windows for 
 ## How to run
 
 Run the server.exe
+To be added to the server browser, you need to register your server on the website and it is coming soon! The website will also be used to register new players.
 
 ## What is used
 
