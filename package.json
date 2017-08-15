@@ -1,17 +1,17 @@
 {
-    "name": "standalone_test_app",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "author": "Z4F1",
-    "dependencies": {
-        "nexe": "^1.1.3",
-        "socket.io": "2.0.3"
-    },
-    "scripts": {
-        "start": "node index.js"
-    },
-    "engines": {
-        "node": "6.11.2"
-    }
+  "name": "Unity-socket-io-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Z4F1",
+  "dependencies": {
+    "nexe": "^1.1.3",
+    "socket.io": "^2.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.11.2"
+  }
 }
